@@ -5,8 +5,8 @@
 
 <dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
 	<configuration>
-		<datName>Official OfflineList No-Intro Nintendo 64 CHS</datName>
-		<imFolder>Official OfflineList Nintendo 64</imFolder>
+		<datName>LP_N64_OL</datName>
+		<imFolder>LP_N64_OL</imFolder>
 		<datVersion>20180106</datVersion>
 		<system>Nintendo - Nintendo 64</system>
 		<screenshotsWidth>320</screenshotsWidth>
