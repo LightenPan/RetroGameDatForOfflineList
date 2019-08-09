@@ -1,8 +1,8 @@
 <dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
 	<configuration>
-		<datName>noIntro - Nintendo - Nintendo Entertainment System</datName>
-		<imFolder />
-		<datVersion>20190210</datVersion>
+		<datName>LP_FC_OL</datName>
+		<imFolder>LP_FC_OL</imFolder>
+		<datVersion>20190809</datVersion>
 		<system>Nintendo - Nintendo Entertainment System</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -25,9 +25,9 @@
 			<extension>.nes</extension>
 		</canOpen>
 		<newDat>
-			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="noIntro - Nintendo - Nintendo Entertainment System.xml">http://nan.im/apps/romdat/noIntro.php?host=nes</datURL>
-			<imURL />
+		   <datVersionURL></datVersionURL>
+		   <datURL>https://raw.githubusercontent.com/LightenPan/RetroGameDatForOfflineList/master/dats/LP_FC_OL.xml</datURL>
+		   <imURL>https://raw.githubusercontent.com/LightenPan/RetroGameDatForOfflineList/master/imgs/LP_FC_OL</imURL>
 		</newDat>
 		<search>
 			<to auto="true" default="true" value="location" />
@@ -30965,7 +30965,7 @@
 			<files><romCRC extension=".nes">95E4E594</romCRC></files>
 			<im1CRC />
 			<im2CRC />
-			<comment>领土争夺战</comment>
+			<comment />
 			<duplicateID>0</duplicateID>
 		</game>
 		<game>

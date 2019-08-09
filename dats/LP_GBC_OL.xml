@@ -1,8 +1,8 @@
 <dat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="datas.xsd">
 	<configuration>
-		<datName>noIntro - Nintendo - Game Boy Color</datName>
-		<imFolder />
-		<datVersion>20190210</datVersion>
+		<datName>LP_GBC_OL</datName>
+		<imFolder>LP_GBC_OL</imFolder>
+		<datVersion>20190809</datVersion>
 		<system>Nintendo - Game Boy Color</system>
 		<screenshotsWidth>0</screenshotsWidth>
 		<screenshotsHeight>0</screenshotsHeight>
@@ -25,9 +25,9 @@
 			<extension>.gbc</extension>
 		</canOpen>
 		<newDat>
-			<datVersionURL>http://nan.im/apps/romdat/?ver</datVersionURL>
-			<datURL fileName="noIntro - Nintendo - Game Boy Color.xml">http://nan.im/apps/romdat/noIntro.php?host=gbc</datURL>
-			<imURL />
+		   <datVersionURL></datVersionURL>
+		   <datURL>https://raw.githubusercontent.com/LightenPan/RetroGameDatForOfflineList/master/dats/LP_GBC_OL.xml</datURL>
+		   <imURL>https://raw.githubusercontent.com/LightenPan/RetroGameDatForOfflineList/master/imgs/LP_GBC_OL</imURL>
 		</newDat>
 		<search>
 			<to auto="true" default="true" value="location" />
